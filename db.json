@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "ali",
+      "email": "ali@gamil.com",
+      "phone": "123447",
+      "Membership": "premium"
+    },
+    {
+      "id": "2",
+      "name": "jamac",
+      "email": "jamac@gamil.com",
+      "phone": "123445",
+      "Membership": "vip"
+    },
+    {
+      "id": "3",
+      "name": "Anas",
+      "email": "anas@gmail.com",
+      "phone": "123456780",
+      "Membership": "basic"
+    },
+    {
+      "id": "4",
+      "name": "camir",
+      "email": "camir@gamil.com",
+      "phone": "5566743",
+      "Membership": "basic",
+      "active": true
+    }
+  ]
+}
